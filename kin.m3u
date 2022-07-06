@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png" , BTV World
+#EXTINF:-1 tvg-id="101" tvg-logo="https://ibb.co/M8kwdGC" , BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-logo="http://127.0.0.1/" , ATN Bangla
+#EXTINF:-1 tvg-id="102" tvg-logo="https://ibb.co/9w0HJrT" , ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-logo="http://127.0.0.1/" , Channel I
+#EXTINF:-1 tvg-id="103" tvg-logo="https://ibb.co/dr3WqWm" , Channel I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" , Ekushey TV(BD2)
+#EXTINF:-1 tvg-id="104" tvg-logo="https://ibb.co/hgqT2xW" , Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/06/satv-resized.png" , SA TV
+#EXTINF:-1 tvg-id="105" tvg-logo="https://ibb.co/6X5Jmt5" , SA TV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="106" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-channel-24-bd-5649.jpg" , Channel 24
+#EXTINF:-1 tvg-id="106" tvg-logo="https://ibb.co/yytSKWN" , Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-logo="http://127.0.0.1/" , Somoy TV
+#EXTINF:-1 tvg-id="107" tvg-logo="https://ibb.co/85QXntF" , Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://127.0.0.1/" , BanglaVision
