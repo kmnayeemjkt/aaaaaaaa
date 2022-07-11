@@ -1,4 +1,4 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BTV World(Jagobd)" tvg-logo="https://i.ibb.co/s59x76V/BTV.jpg" group-title="BD Bangla" parent-code="123",BTV World(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
 
