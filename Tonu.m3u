@@ -1,9 +1,6 @@
 
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BTV World(Jagobd)" tvg-logo="https://i.ibb.co/s59x76V/BTV.jpg" group-title="BD Bangla" parent-code="123",BTV World(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co/GsDQX52/ATN-BAngla.gif" group-title="BD Bangla" parent-code="123",ATN Bangla
-http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="BTV World(Jagobd)" tvg-logo="hi.ibb.co/s59x76V/BTV.jpg" group-title="123",BTV World(Jagobd)
 #EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="BanglaVision" tvg-logo="https://i.ibb.co/sWK1Nry/Bangla-Vision.png" group-title="BD Bangla" parent-code="123",BanglaVision
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="(no tvg-id)" tvg-name="Boishakhi Plus" tvg-logo="https://i.ibb.co/yX15qQF/Boishakhi-TV.jpg" group-title="BD Bangla" parent-code="123",Boishakhi Plus
@@ -32,7 +29,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" group-title="BD Bangla" parent-code="123",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="(no tvg-id)" tvg-name="Somoy TV" tvg-logo="https://i.ibb.co/FwdnkCG/somoytv.png																									" group-title="BD Bangla" parent-code="123",Somoy TV
+#EXTINF:-1 tvg-chno="17" tvg-id="(novg-name="Somoy TV" tvg-logo="https://i.ibb.co/FwdnkCG/somoytv.png																									" group-title="BD Bangla" parent-code="123",Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="(no tvg-id)" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="BD Bangla" parent-code="123",Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
@@ -56,11 +53,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="(no tvg-id)" tvg-name="Nexus TV" tvg-logo="https://i.ibb.co/ZWbLYMr/nexus.jpg																									" group-title="BD Bangla" parent-code="123",Nexus TV
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="(no tvg-id)" tvg-name="RTV MUSIC" tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD Bangla" parent-code="123",RTV MUSIC
+#EXTINF:-1 tvg-chno="29" tvg-id="(no tvg-id)" tvg-name="RTV MUSIC" tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD Bangla" parent-code="123",RTV MUS
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="(no tvg-id)" tvg-name="RTV S2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="BD Bangla" parent-code="123",RTV S2
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="(no tvg-id)" tvg-name="Star Jalsa SD 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="OTHER BANGLA",Star Jalsa SD 01
+#EXTINF:-1 tv-chno="151" tvg-id="(no tvg-id)" tvg-name="Star Jalsa SD 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="OTHER BANGLA",Star Jalsa SD 01
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="(no tvg-id)" tvg-name="STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="OTHER BANGLA",STAR JALSHA HD
 http://103.55.144.46/hls/starjalsha.m3u8
@@ -71,7 +68,7 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="http://103.55.144.46/img/colorsbangla.jpg" group-title="OTHER BANGLA",Colors Bangla HD
 http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="(no tvg-id)" tvg-name="Sun Bangla(BD)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="OTHER BANGLA",Sun Bangla(BD)
-http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
+http://89.187.
 #EXTINF:-1 tvg-chno="157" tvg-id="(no tvg-id)" tvg-name="Sony AATH" tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="OTHER BANGLA",Sony AATH
 http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="(no tvg-id)" tvg-name="Colors Bangla Cinema" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07185839/ColorsBanglaLogo.png" group-title="OTHER BANGLA",Colors Bangla Cinema
